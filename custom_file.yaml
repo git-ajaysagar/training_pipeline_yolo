@@ -1,0 +1,4 @@
+train: ../train_data/images/train/
+val: ../train_data/images/val/
+nc:22
+names:['contract_number', 'por', 'del', 'no_of_containers', 'vessel_name', 'booking_number', 'vessel_&_voy_code', 'bl_No', 'port_from', 'port_to', 'container_no', 'customer_code', 'customer_state', 'customer_pan', 'customer_state_code', 'issue_office', 'sez', 'customer_gst', 'reference', 'gst_applicable_on_commodity', 'place_of_supply', 'customer_name_and_address']
